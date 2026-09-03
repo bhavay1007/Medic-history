@@ -46,16 +46,3 @@ and distribute the ZIP file.
 
 Upon running the application, you will be presented with the main window of the Digital Medical Receipt Management System. Follow the on-screen instructions to navigate through the various functionalities, such as adding new medical receipts, viewing existing records, and managing user accounts.
 
-## Contributing
-
-Contributions to this project are done by
-2021B5A72792P   Harshit Nagpal
-2021B3A70870P	Aditya Agarwal
-2021B3A72786P	Vaibhav Gupta
-2021B4A71306P	Saransh Agarwal
-2021B4A72759P	Mayur Agarwal
-
-## Acknowledgments
-
-We would like to express our gratitude to Dr Yashvardhan Sharma and Saurav SS for their continued support and contribution.
-
